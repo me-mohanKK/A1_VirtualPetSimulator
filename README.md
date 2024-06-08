@@ -29,8 +29,10 @@ This is a simple console game where you take care of a virtual pet by feeding it
 - A C# code editor (Visual Studio)
 
 ### Steps
-
-1. **Download the Project:**
+**Download the Project:**
 
    ```sh
    git clone https://github.com/me-mohanKK/virtual-pet-simulator.git
+
+**Video Recording Link**
+https://drive.google.com/file/d/1fjOU9zx4AJze4qZx7wcPPuH3YCMllmPC/view?usp=drive_link
